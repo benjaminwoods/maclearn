@@ -1,0 +1,2 @@
+# maclearn
+Machine learning workshop
